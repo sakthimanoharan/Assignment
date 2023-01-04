@@ -48,8 +48,8 @@ public class OrderShoe extends SeleniumBase {
 		String shoeSize="13";
 		String[] shoeColor= {"Black","Gray","Green","White"};
 		String productName="PUMA ONE 4 Synthetic FG Kids' Football Boots";
-		String userName="sakthi893340@gmail.com";
-		String password="Ma$k@2021";
+		String userName="";
+		String password="";
 		String menShoe="https://in.puma.com/in/en/mens/mens-shoes";
 		String priceAmount="2689";
 		
